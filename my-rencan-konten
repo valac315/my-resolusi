@@ -2,5 +2,8 @@ rencana konten saya
 -javascript
 *ES6
 *framework javascript
+  ^angular
+  ^react
 -php frameworks
--fundamental data structure
+  ^laravel
+
